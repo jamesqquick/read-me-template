@@ -1,8 +1,8 @@
-# Read Me Template
+# VirtualSafe
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> This is a ReadMe to help save you time and effort.
 
 ---
 
@@ -19,22 +19,24 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+VirtualSafe is a sub-brand of VirtualSoul (formerly VirtualHead). It is a project created by the homonymous team of CECyT 9 students for the 4th semester.
+VirtualSafe is a tool for the publication of crimes to support citizens of Mexico City, although it can be applied elsewhere.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Apache NetBeans IDE 11.3
+- GlassFish Server 5.0.1
+- XAMPP Control Panel v3.2.4
+- OpenJDK
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#VirtualSafe)
 
 ---
 
 ## How To Use
 
 #### Installation
-
-
+So far, we have placed the project in Apache NetBeans IDE 11.3, so we recommend doing it. No experimentation with web and database servers.
 
 #### API Reference
 
@@ -54,7 +56,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2020] [VirtualSoul]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -74,13 +76,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#VirtualSoul)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Facebook - [joshieadalid](https://www.facebook.com/joshieadalid)
+- Facebook - [protozx.eidanplatano](https://www.facebook.com/protozx.eidanplatano)
 
 [Back To The Top](#read-me-template)
